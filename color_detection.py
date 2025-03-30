@@ -1,7 +1,7 @@
 import cv2
 import pandas as pd
 
-img_path = 'pic3.jpg'
+img_path = 'ichigo.jpg'
 csv_path = 'colors.csv'
 
 # reading csv file
